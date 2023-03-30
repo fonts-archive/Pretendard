@@ -15,7 +15,7 @@ font-family: 'Pretendard';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard.css"/>
 ```
 
 &nbsp;

@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Pretendard';
@@ -12,7 +12,7 @@ font-family: 'Pretendard';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -112,4 +112,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard-Black.woff') format('woff');
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Pretendard/Pretendard-Black.otf') format('opentype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+SIL 오픈 폰트 라이선스 
+글꼴 단독 판매를 제외한 모든 상업적 행위 및 수정, 재배포가 가능합니다. 
+라이선스 전문: https://github.com/orioncactus/pretendard/blob/main/LICENSE
 ```
